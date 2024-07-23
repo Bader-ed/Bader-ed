@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me edbdr510@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ITE cooked nigga
+- ⚡ Fun fact:
+-  mentally cooked 👍
 
 <!---
 Bader-ed/Bader-ed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
