@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bader-ed
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning ML & Python..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me edbdr510@gmail.com
+- 📫 How to reach me: edbdr510@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: mentally cooked 👍
 
