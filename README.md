@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Bader-ed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ML & Python..
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Badr-ed
+- 👀 I’m interested in hardware & coding maybe..
+- 🌱 I’m currently learning ML & Python + workin on JS.
 - 📫 How to reach me: edbdr510@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: cooked 👍
+- 😄 Pronouns: nigga..
+- ⚡ Fun fact: me cooked 👍
 
 <!---
 Bader-ed/Bader-ed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
